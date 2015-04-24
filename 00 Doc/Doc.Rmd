@@ -39,7 +39,7 @@ To produce our graphs we went through these steps.
 # Rank
 The last column shows the rank of the cap colors in each group. Here we found out that the most popular color is brown shared between both groups of edible and poisonous. 
 
-<img src="../00 Doc/rank.png" />
+<img src="../00 Doc/Rank.png" />
 
 *****
 
